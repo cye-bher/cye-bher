@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cye-bher
+- 👋 Yoo, am Cybher
 - 👀 I’m interested in Java Programming and Android Development
 - 🌱 I’m currently learning Java
 - 📫 You can reach me on emmanuel.otsiwae@gmail.com
