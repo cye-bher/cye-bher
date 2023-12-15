@@ -1,6 +1,6 @@
 - 👋 Yoo, am Cybher
-- 👀 I’m interested in Java Programming and Android Development
-- 🌱 I’m currently learning Java
+- 👀 Don't copy what you don't understand
+- 🌱 Because I don't understand most of the code myself 😂😂 but I always get the job done
 - 📫 You can reach me on emmanuel.otsiwae@gmail.com
 
 <!---
